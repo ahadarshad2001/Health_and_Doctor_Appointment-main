@@ -1,4 +1,6 @@
-![Poster](assets/Medic.ly_poster1.png?raw=true "Medic.ly")
+
+![Medic ly_poster1](https://github.com/user-attachments/assets/f5ad1a45-b1db-4ebf-85e7-b04b6d309c8d)
+
 
 # Medic.ly - Health and Doctor Appointment
 
@@ -82,7 +84,7 @@ users
 - Forgot password
 - Intoduction sceens
 
-![poster](./assets/poster2.png)
+![Uploading poster2.png…]()
 
 <h2 align="center">Please star 🌟 the project if you like.</h2>
 "# Health_and_Doctor_Appointment-main" 
